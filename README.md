@@ -38,3 +38,16 @@ O objetivo do projeto é simular um carrinho de compras, desenvolvido em PHP pur
 - Cupom de desconto aplicado ao total final, se válido.
 - Tudo é armazenado em arrays (sem banco de dados).
 - Não há interface de usuário, os testes são feitos diretamente no `index.php`.
+
+## Limitações
+
+- Não á login ou gerenciamento de usuários.
+- Os valores são fixos em arrays/variáveis.
+- Apenas PHP puro rodando em XAMPP.
+
+## Instruções de Execução (XAMPP)
+
+1. Coloque a pasta `Projeto_1` dentro de `C:\xampp\htdocs`.
+2. Abra o **XAMPP** e inicie o **Apache**.
+3. No navegador, acesse: http://localhost/Projeto_1/index.php.
+4. O sistema iriá imprimir os resultados no navegador.
